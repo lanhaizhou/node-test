@@ -1,0 +1,9 @@
+# files to ignore
+*.ico
+
+# folders to ignore
+.idea
+/blog-1/node_modules/
+/blog-express/node_modules/
+/blog-koa2/node_modules/
+
